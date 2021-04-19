@@ -1,4 +1,4 @@
-# Written by Michael Rowe 26101267
+# Written by RemineralizedWater
 # COMP 361 A1
 
 import numpy as np
